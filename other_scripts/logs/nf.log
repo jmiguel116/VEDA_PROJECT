@@ -1,0 +1,8 @@
+2024-06-20 22:57:27,952 DEBUG:Logger initialized
+2024-06-20 22:57:27,952 DEBUG:Using 16 CPU cores for parallel processing
+2024-06-20 22:57:28,015 DEBUG:NF dataset generated and saved as nf_data.csv
+2024-06-20 23:17:27,459 DEBUG:Logger initialized
+2024-06-20 23:17:27,459 DEBUG:Using 16 CPU cores for parallel processing
+2024-06-20 23:17:27,524 DEBUG:NF dataset generated and saved as nf_data.csv
+DEBUG:root:Logger initialized
+DEBUG:root:Using 16 CPU cores for parallel processing

@@ -1,0 +1,52 @@
+2024-06-20 23:30:22,200 DEBUG:Logger initialized
+2024-06-20 23:30:22,200 DEBUG:Using 16 CPU cores for parallel processing
+2024-06-20 23:30:22,242 DEBUG:RSSI dataset generated and saved as rssi_data.csv
+2024-06-22 03:27:57,193 DEBUG:Logger initialized
+2024-06-22 03:27:57,234 DEBUG:Using 16 CPU cores for parallel processing
+DEBUG:root:Logger initialized
+DEBUG:root:Using 48 CPU cores for parallel processing
+DEBUG:root:Batch 0 written to db_rssi/rssi_batch_0.csv
+2024-06-22 08:04:57,294 DEBUG:Logger initialized
+2024-06-22 08:04:57,335 DEBUG:Using 48 CPU cores for parallel processing
+2024-06-22 08:07:48,471 DEBUG:Logger initialized
+2024-06-22 08:07:48,521 DEBUG:Using 48 CPU cores for parallel processing
+2024-06-22 08:07:53,056 DEBUG:Saved batch 1 to db_rssi/rssi_data_batch_1.csv
+2024-06-22 08:07:56,759 DEBUG:Saved batch 1 to db_rssi/rssi_data_batch_1.csv
+2024-06-22 08:08:00,458 DEBUG:Saved batch 1 to db_rssi/rssi_data_batch_1.csv
+2024-06-22 08:08:07,235 DEBUG:Database compressed to db_rssi.zip
+2024-06-22 08:23:15,482 DEBUG:Logger initialized
+2024-06-22 08:23:15,653 DEBUG:Using 48 CPU cores for parallel processing
+2024-06-22 08:23:19,657 DEBUG:Saved batch 0 to db_rssi/rssi_data_batch_0.csv
+2024-06-22 08:23:23,429 DEBUG:Saved batch 1 to db_rssi/rssi_data_batch_1.csv
+2024-06-22 08:23:27,527 DEBUG:Saved batch 2 to db_rssi/rssi_data_batch_2.csv
+2024-06-22 08:23:31,727 DEBUG:Saved batch 3 to db_rssi/rssi_data_batch_3.csv
+2024-06-22 08:23:35,494 DEBUG:Saved batch 4 to db_rssi/rssi_data_batch_4.csv
+2024-06-22 08:23:39,534 DEBUG:Saved batch 5 to db_rssi/rssi_data_batch_5.csv
+2024-06-22 08:23:43,409 DEBUG:Saved batch 6 to db_rssi/rssi_data_batch_6.csv
+2024-06-22 08:23:47,376 DEBUG:Saved batch 7 to db_rssi/rssi_data_batch_7.csv
+2024-06-22 08:23:51,495 DEBUG:Saved batch 8 to db_rssi/rssi_data_batch_8.csv
+2024-06-22 08:23:55,684 DEBUG:Saved batch 9 to db_rssi/rssi_data_batch_9.csv
+2024-06-22 08:23:59,936 DEBUG:Saved batch 10 to db_rssi/rssi_data_batch_10.csv
+2024-06-22 08:24:04,024 DEBUG:Saved batch 11 to db_rssi/rssi_data_batch_11.csv
+2024-06-22 08:24:08,164 DEBUG:Saved batch 12 to db_rssi/rssi_data_batch_12.csv
+2024-06-22 08:24:12,306 DEBUG:Saved batch 13 to db_rssi/rssi_data_batch_13.csv
+2024-06-22 08:24:16,327 DEBUG:Saved batch 14 to db_rssi/rssi_data_batch_14.csv
+2024-06-22 08:24:17,677 DEBUG:Saved batch 15 to db_rssi/rssi_data_batch_15.csv
+2024-06-22 08:24:25,405 DEBUG:Database compressed to db_rssi.zip
+2024-06-22 08:29:30,810 DEBUG:Logger initialized
+2024-06-22 08:29:30,860 DEBUG:Using 48 CPU cores for parallel processing
+2024-06-22 08:35:02,285 DEBUG:Logger initialized
+2024-06-22 08:35:02,334 DEBUG:Using 48 CPU cores for parallel processing
+2024-06-22 08:35:06,470 DEBUG:Saved batch 18 to db_rssi/rssi_batch_18.csv
+2024-06-22 08:35:10,643 DEBUG:Saved batch 19 to db_rssi/rssi_batch_19.csv
+2024-06-22 08:35:14,542 DEBUG:Saved batch 20 to db_rssi/rssi_batch_20.csv
+2024-06-22 08:42:12,747 DEBUG:Logger initialized
+2024-06-22 08:42:12,796 DEBUG:Using 48 CPU cores for parallel processing
+2024-06-22 08:44:13,052 DEBUG:Logger initialized
+2024-06-22 08:44:13,103 DEBUG:Using 48 CPU cores for parallel processing
+2024-06-22 14:18:57,188 DEBUG:Logger initialized
+2024-06-22 14:18:57,238 DEBUG:Using 48 CPU cores for parallel processing
+2024-06-22 14:19:27,222 DEBUG:Logger initialized
+2024-06-22 14:19:27,272 DEBUG:Using 48 CPU cores for parallel processing
+2024-06-22 14:22:31,830 DEBUG:Logger initialized
+2024-06-22 14:22:31,881 DEBUG:Using 48 CPU cores for parallel processing

@@ -1,0 +1,10 @@
+2024-06-20 22:42:38,065 DEBUG:Logger initialized
+2024-06-20 22:42:38,066 DEBUG:Using 16 CPU cores for parallel processing
+2024-06-20 22:42:38,243 DEBUG:EIRP dataset generated and saved as eirp_data.csv
+2024-06-20 22:55:25,159 DEBUG:Logger initialized
+2024-06-20 22:55:25,160 DEBUG:Using 16 CPU cores for parallel processing
+2024-06-20 22:55:25,307 DEBUG:EIRP dataset generated and saved as eirp_data.csv
+2024-06-22 03:23:07,967 DEBUG:Logger initialized
+2024-06-22 03:23:07,968 DEBUG:Using 16 CPU cores for parallel processing
+DEBUG:root:Logger initialized
+DEBUG:root:Using 16 CPU cores for parallel processing

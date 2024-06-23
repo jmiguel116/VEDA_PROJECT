@@ -1,0 +1,4 @@
+DEBUG:root:Logger initialized
+INFO:root:Starting link budget calculations
+INFO:root:Data saved and compressed to link_budget_data.zip
+INFO:root:Link budget calculations completed and data compressed

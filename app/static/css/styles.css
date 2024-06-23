@@ -1,0 +1,101 @@
+/* Form Styling */
+.form-control {
+    border: 1px solid #ced4da; /* Subtle border */
+    border-radius: 4px; /* Rounded corners */
+    padding: 0.75rem 1rem; /* Padding for input fields */
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out; /* Smooth transition for focus */
+}
+
+.form-control:focus {
+    border-color: #80bdff; /* Blue border on focus */
+    box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25); /* Subtle focus shadow */
+}
+
+.invalid-feedback {
+    display: block;
+    color: #dc3545; /* Red color for error messages */
+    font-size: 0.875rem; /* Smaller font size */
+    margin-top: 0.25rem; /* Small margin above error message */
+}
+
+/* Button Styling */
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+    transition: background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #004085;
+}
+
+/* Card Styling */
+.card {
+    margin-top: 2rem;
+    padding: 2rem;
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15); /* More pronounced shadow */
+    transition: box-shadow 0.3s ease-in-out; /* Smooth transition for hover */
+}
+
+.card:hover {
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2); /* Increased shadow on hover */
+}
+
+/* Navbar Styling */
+.navbar {
+    background-color: #f8f9fa; /* Light background */
+    padding: 1rem 0; /* Padding for navbar content */
+}
+
+.navbar-brand {
+    font-weight: bold;
+    color: #333; /* Dark text color */
+}
+
+.navbar-nav .nav-item .nav-link {
+    color: #333; /* Dark text color */
+    margin-right: 1.5rem; /* More spacing between links */
+    transition: color 0.3s ease-in-out; /* Smooth transition for hover */
+}
+
+.navbar-nav .nav-item .nav-link:hover,
+.navbar-nav .nav-item .nav-link:focus {
+    color: #007bff; /* Blue color on hover and focus */
+}
+
+.navbar-nav .nav-item .nav-link.active {
+    font-weight: bold;
+    color: #007bff; /* Blue color for active link */
+}
+
+/* Footer Styling */
+footer {
+    padding: 2rem 0;
+    background-color: #f2f2f2; /* Light gray background */
+    border-top: 1px solid #ddd; /* Subtle border */
+    margin-top: 2rem;
+    text-align: center; /* Center footer content */
+}
+
+footer p {
+    margin: 0;
+    color: #6c757d; /* Gray text color */
+}
+
+/* Media Queries for Responsiveness */
+@media (max-width: 768px) {
+    .navbar-nav .nav-item .nav-link {
+        margin-right: 1rem; /* Reduce spacing between links */
+    }
+
+    .card {
+        margin-top: 1rem;
+        padding: 1rem;
+    }
+
+    .btn-block {
+        padding: 0.5rem;
+    }
+}

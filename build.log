@@ -1,0 +1,322 @@
+Running Sphinx v7.3.7
+building [mo]: targets for 0 po files that are out of date
+writing output... 
+building [html]: targets for 73 source files that are out of date
+updating environment: [new config] 73 added, 0 changed, 0 removed
+reading sources... [  1%] RAI_env/lib/python3.12/site-packages/MarkupSafe-2.1.5.dist-info/LICENSE
+reading sources... [  3%] RAI_env/lib/python3.12/site-packages/click-8.1.7.dist-info/LICENSE
+reading sources... [  4%] RAI_env/lib/python3.12/site-packages/numpy/ma/README
+reading sources... [  5%] RAI_env/lib/python3.12/site-packages/pyasn1-0.6.0.dist-info/LICENSE
+reading sources... [  7%] RAI_env/lib64/python3.12/site-packages/MarkupSafe-2.1.5.dist-info/LICENSE
+reading sources... [  8%] RAI_env/lib64/python3.12/site-packages/click-8.1.7.dist-info/LICENSE
+reading sources... [ 10%] RAI_env/lib64/python3.12/site-packages/numpy/ma/README
+reading sources... [ 11%] RAI_env/lib64/python3.12/site-packages/pyasn1-0.6.0.dist-info/LICENSE
+reading sources... [ 12%] index
+reading sources... [ 14%] venv/lib/python3.12/site-packages/Flask-2.0.1.dist-info/LICENSE
+reading sources... [ 15%] venv/lib/python3.12/site-packages/Flask_SQLAlchemy-2.5.1.dist-info/LICENSE
+reading sources... [ 16%] venv/lib/python3.12/site-packages/MarkupSafe-2.1.5.dist-info/LICENSE
+reading sources... [ 18%] venv/lib/python3.12/site-packages/Werkzeug-2.0.3.dist-info/LICENSE
+reading sources... [ 19%] venv/lib/python3.12/site-packages/astunparse-1.6.3.dist-info/AUTHORS
+reading sources... [ 21%] venv/lib/python3.12/site-packages/bleach/_vendor/README
+reading sources... [ 22%] venv/lib/python3.12/site-packages/bleach/_vendor/html5lib-1.1.dist-info/AUTHORS
+reading sources... [ 23%] venv/lib/python3.12/site-packages/click-8.1.7.dist-info/LICENSE
+reading sources... [ 25%] venv/lib/python3.12/site-packages/flask_sqlalchemy-3.1.1.dist-info/LICENSE
+reading sources... [ 26%] venv/lib/python3.12/site-packages/flask_wtf-1.2.1.dist-info/licenses/LICENSE
+reading sources... [ 27%] venv/lib/python3.12/site-packages/idna-2.10.dist-info/LICENSE
+reading sources... [ 29%] venv/lib/python3.12/site-packages/numpy/ma/README
+reading sources... [ 30%] venv/lib/python3.12/site-packages/prompt_toolkit-3.0.47.dist-info/AUTHORS
+reading sources... [ 32%] venv/lib/python3.12/site-packages/pyasn1-0.6.0.dist-info/LICENSE
+reading sources... [ 33%] venv/lib/python3.12/site-packages/rfc3339_validator-0.1.4.dist-info/AUTHORS
+reading sources... [ 34%] venv/lib/python3.12/site-packages/rfc3986_validator-0.1.1.dist-info/AUTHORS
+reading sources... [ 36%] venv/lib/python3.12/site-packages/sklearn/datasets/descr/breast_cancer
+reading sources... [ 37%] venv/lib/python3.12/site-packages/sklearn/datasets/descr/california_housing
+reading sources... [ 38%] venv/lib/python3.12/site-packages/sklearn/datasets/descr/covtype
+reading sources... [ 40%] venv/lib/python3.12/site-packages/sklearn/datasets/descr/diabetes
+reading sources... [ 41%] venv/lib/python3.12/site-packages/sklearn/datasets/descr/digits
+reading sources... [ 42%] venv/lib/python3.12/site-packages/sklearn/datasets/descr/iris
+reading sources... [ 44%] venv/lib/python3.12/site-packages/sklearn/datasets/descr/kddcup99
+reading sources... [ 45%] venv/lib/python3.12/site-packages/sklearn/datasets/descr/lfw
+reading sources... [ 47%] venv/lib/python3.12/site-packages/sklearn/datasets/descr/linnerud
+reading sources... [ 48%] venv/lib/python3.12/site-packages/sklearn/datasets/descr/olivetti_faces
+reading sources... [ 49%] venv/lib/python3.12/site-packages/sklearn/datasets/descr/rcv1
+reading sources... [ 51%] venv/lib/python3.12/site-packages/sklearn/datasets/descr/species_distributions
+reading sources... [ 52%] venv/lib/python3.12/site-packages/sklearn/datasets/descr/twenty_newsgroups
+reading sources... [ 53%] venv/lib/python3.12/site-packages/sklearn/datasets/descr/wine_data
+reading sources... [ 55%] venv/lib/python3.12/site-packages/webencodings-0.5.1.dist-info/DESCRIPTION
+reading sources... [ 56%] venv/lib/python3.12/site-packages/wtforms-3.1.2.dist-info/licenses/LICENSE
+reading sources... [ 58%] venv/lib64/python3.12/site-packages/Flask-2.0.1.dist-info/LICENSE
+reading sources... [ 59%] venv/lib64/python3.12/site-packages/Flask_SQLAlchemy-2.5.1.dist-info/LICENSE
+reading sources... [ 60%] venv/lib64/python3.12/site-packages/MarkupSafe-2.1.5.dist-info/LICENSE
+reading sources... [ 62%] venv/lib64/python3.12/site-packages/Werkzeug-2.0.3.dist-info/LICENSE
+reading sources... [ 63%] venv/lib64/python3.12/site-packages/astunparse-1.6.3.dist-info/AUTHORS
+reading sources... [ 64%] venv/lib64/python3.12/site-packages/bleach/_vendor/README
+reading sources... [ 66%] venv/lib64/python3.12/site-packages/bleach/_vendor/html5lib-1.1.dist-info/AUTHORS
+reading sources... [ 67%] venv/lib64/python3.12/site-packages/click-8.1.7.dist-info/LICENSE
+reading sources... [ 68%] venv/lib64/python3.12/site-packages/flask_sqlalchemy-3.1.1.dist-info/LICENSE
+reading sources... [ 70%] venv/lib64/python3.12/site-packages/flask_wtf-1.2.1.dist-info/licenses/LICENSE
+reading sources... [ 71%] venv/lib64/python3.12/site-packages/idna-2.10.dist-info/LICENSE
+reading sources... [ 73%] venv/lib64/python3.12/site-packages/numpy/ma/README
+reading sources... [ 74%] venv/lib64/python3.12/site-packages/prompt_toolkit-3.0.47.dist-info/AUTHORS
+reading sources... [ 75%] venv/lib64/python3.12/site-packages/pyasn1-0.6.0.dist-info/LICENSE
+reading sources... [ 77%] venv/lib64/python3.12/site-packages/rfc3339_validator-0.1.4.dist-info/AUTHORS
+reading sources... [ 78%] venv/lib64/python3.12/site-packages/rfc3986_validator-0.1.1.dist-info/AUTHORS
+reading sources... [ 79%] venv/lib64/python3.12/site-packages/sklearn/datasets/descr/breast_cancer
+reading sources... [ 81%] venv/lib64/python3.12/site-packages/sklearn/datasets/descr/california_housing
+reading sources... [ 82%] venv/lib64/python3.12/site-packages/sklearn/datasets/descr/covtype
+reading sources... [ 84%] venv/lib64/python3.12/site-packages/sklearn/datasets/descr/diabetes
+reading sources... [ 85%] venv/lib64/python3.12/site-packages/sklearn/datasets/descr/digits
+reading sources... [ 86%] venv/lib64/python3.12/site-packages/sklearn/datasets/descr/iris
+reading sources... [ 88%] venv/lib64/python3.12/site-packages/sklearn/datasets/descr/kddcup99
+reading sources... [ 89%] venv/lib64/python3.12/site-packages/sklearn/datasets/descr/lfw
+reading sources... [ 90%] venv/lib64/python3.12/site-packages/sklearn/datasets/descr/linnerud
+reading sources... [ 92%] venv/lib64/python3.12/site-packages/sklearn/datasets/descr/olivetti_faces
+reading sources... [ 93%] venv/lib64/python3.12/site-packages/sklearn/datasets/descr/rcv1
+reading sources... [ 95%] venv/lib64/python3.12/site-packages/sklearn/datasets/descr/species_distributions
+reading sources... [ 96%] venv/lib64/python3.12/site-packages/sklearn/datasets/descr/twenty_newsgroups
+reading sources... [ 97%] venv/lib64/python3.12/site-packages/sklearn/datasets/descr/wine_data
+reading sources... [ 99%] venv/lib64/python3.12/site-packages/webencodings-0.5.1.dist-info/DESCRIPTION
+reading sources... [100%] venv/lib64/python3.12/site-packages/wtforms-3.1.2.dist-info/licenses/LICENSE
+
+/workspaces/VEDA_PROJECT/index.rst:9: WARNING: toctree contains reference to nonexisting document 'modules'
+/workspaces/VEDA_PROJECT/venv/lib/python3.12/site-packages/sklearn/datasets/descr/breast_cancer.rst:107: ERROR: Undefined substitution referenced: "details-start".
+/workspaces/VEDA_PROJECT/venv/lib/python3.12/site-packages/sklearn/datasets/descr/breast_cancer.rst:107: ERROR: Undefined substitution referenced: "details-split".
+/workspaces/VEDA_PROJECT/venv/lib/python3.12/site-packages/sklearn/datasets/descr/breast_cancer.rst:122: ERROR: Undefined substitution referenced: "details-end".
+/workspaces/VEDA_PROJECT/venv/lib/python3.12/site-packages/sklearn/datasets/descr/digits.rst:35: ERROR: Undefined substitution referenced: "details-start".
+/workspaces/VEDA_PROJECT/venv/lib/python3.12/site-packages/sklearn/datasets/descr/digits.rst:35: ERROR: Undefined substitution referenced: "details-split".
+/workspaces/VEDA_PROJECT/venv/lib/python3.12/site-packages/sklearn/datasets/descr/digits.rst:50: ERROR: Undefined substitution referenced: "details-end".
+/workspaces/VEDA_PROJECT/venv/lib/python3.12/site-packages/sklearn/datasets/descr/iris.rst:48: ERROR: Undefined substitution referenced: "details-start".
+/workspaces/VEDA_PROJECT/venv/lib/python3.12/site-packages/sklearn/datasets/descr/iris.rst:48: ERROR: Undefined substitution referenced: "details-split".
+/workspaces/VEDA_PROJECT/venv/lib/python3.12/site-packages/sklearn/datasets/descr/iris.rst:67: ERROR: Undefined substitution referenced: "details-end".
+/workspaces/VEDA_PROJECT/venv/lib/python3.12/site-packages/sklearn/datasets/descr/lfw.rst:35: ERROR: Undefined substitution referenced: "details-start".
+/workspaces/VEDA_PROJECT/venv/lib/python3.12/site-packages/sklearn/datasets/descr/lfw.rst:35: ERROR: Undefined substitution referenced: "details-split".
+/workspaces/VEDA_PROJECT/venv/lib/python3.12/site-packages/sklearn/datasets/descr/lfw.rst:115: ERROR: Undefined substitution referenced: "details-end".
+/workspaces/VEDA_PROJECT/venv/lib/python3.12/site-packages/sklearn/datasets/descr/linnerud.rst:21: ERROR: Undefined substitution referenced: "details-start".
+/workspaces/VEDA_PROJECT/venv/lib/python3.12/site-packages/sklearn/datasets/descr/linnerud.rst:21: ERROR: Undefined substitution referenced: "details-split".
+/workspaces/VEDA_PROJECT/venv/lib/python3.12/site-packages/sklearn/datasets/descr/linnerud.rst:28: ERROR: Undefined substitution referenced: "details-end".
+/workspaces/VEDA_PROJECT/venv/lib/python3.12/site-packages/sklearn/datasets/descr/twenty_newsgroups.rst:30: ERROR: Undefined substitution referenced: "details-start".
+/workspaces/VEDA_PROJECT/venv/lib/python3.12/site-packages/sklearn/datasets/descr/twenty_newsgroups.rst:30: ERROR: Undefined substitution referenced: "details-split".
+/workspaces/VEDA_PROJECT/venv/lib/python3.12/site-packages/sklearn/datasets/descr/twenty_newsgroups.rst:93: ERROR: Undefined substitution referenced: "details-end".
+/workspaces/VEDA_PROJECT/venv/lib/python3.12/site-packages/sklearn/datasets/descr/twenty_newsgroups.rst:95: ERROR: Undefined substitution referenced: "details-start".
+/workspaces/VEDA_PROJECT/venv/lib/python3.12/site-packages/sklearn/datasets/descr/twenty_newsgroups.rst:95: ERROR: Undefined substitution referenced: "details-split".
+/workspaces/VEDA_PROJECT/venv/lib/python3.12/site-packages/sklearn/datasets/descr/twenty_newsgroups.rst:129: ERROR: Undefined substitution referenced: "details-end".
+/workspaces/VEDA_PROJECT/venv/lib/python3.12/site-packages/sklearn/datasets/descr/twenty_newsgroups.rst:131: ERROR: Undefined substitution referenced: "details-start".
+/workspaces/VEDA_PROJECT/venv/lib/python3.12/site-packages/sklearn/datasets/descr/twenty_newsgroups.rst:131: ERROR: Undefined substitution referenced: "details-split".
+/workspaces/VEDA_PROJECT/venv/lib/python3.12/site-packages/sklearn/datasets/descr/twenty_newsgroups.rst:224: ERROR: Undefined substitution referenced: "details-end".
+/workspaces/VEDA_PROJECT/venv/lib/python3.12/site-packages/sklearn/datasets/descr/wine_data.rst:76: ERROR: Undefined substitution referenced: "details-start".
+/workspaces/VEDA_PROJECT/venv/lib/python3.12/site-packages/sklearn/datasets/descr/wine_data.rst:76: ERROR: Undefined substitution referenced: "details-split".
+/workspaces/VEDA_PROJECT/venv/lib/python3.12/site-packages/sklearn/datasets/descr/wine_data.rst:98: ERROR: Undefined substitution referenced: "details-end".
+/workspaces/VEDA_PROJECT/venv/lib64/python3.12/site-packages/sklearn/datasets/descr/breast_cancer.rst:107: ERROR: Undefined substitution referenced: "details-start".
+/workspaces/VEDA_PROJECT/venv/lib64/python3.12/site-packages/sklearn/datasets/descr/breast_cancer.rst:107: ERROR: Undefined substitution referenced: "details-split".
+/workspaces/VEDA_PROJECT/venv/lib64/python3.12/site-packages/sklearn/datasets/descr/breast_cancer.rst:122: ERROR: Undefined substitution referenced: "details-end".
+/workspaces/VEDA_PROJECT/venv/lib64/python3.12/site-packages/sklearn/datasets/descr/breast_cancer.rst:4: WARNING: duplicate label breast_cancer_dataset, other instance in /workspaces/VEDA_PROJECT/venv/lib/python3.12/site-packages/sklearn/datasets/descr/breast_cancer.rst
+/workspaces/VEDA_PROJECT/venv/lib64/python3.12/site-packages/sklearn/datasets/descr/california_housing.rst:4: WARNING: duplicate label california_housing_dataset, other instance in /workspaces/VEDA_PROJECT/venv/lib/python3.12/site-packages/sklearn/datasets/descr/california_housing.rst
+/workspaces/VEDA_PROJECT/venv/lib64/python3.12/site-packages/sklearn/datasets/descr/covtype.rst:4: WARNING: duplicate label covtype_dataset, other instance in /workspaces/VEDA_PROJECT/venv/lib/python3.12/site-packages/sklearn/datasets/descr/covtype.rst
+/workspaces/VEDA_PROJECT/venv/lib64/python3.12/site-packages/sklearn/datasets/descr/diabetes.rst:4: WARNING: duplicate label diabetes_dataset, other instance in /workspaces/VEDA_PROJECT/venv/lib/python3.12/site-packages/sklearn/datasets/descr/diabetes.rst
+/workspaces/VEDA_PROJECT/venv/lib64/python3.12/site-packages/sklearn/datasets/descr/digits.rst:35: ERROR: Undefined substitution referenced: "details-start".
+/workspaces/VEDA_PROJECT/venv/lib64/python3.12/site-packages/sklearn/datasets/descr/digits.rst:35: ERROR: Undefined substitution referenced: "details-split".
+/workspaces/VEDA_PROJECT/venv/lib64/python3.12/site-packages/sklearn/datasets/descr/digits.rst:50: ERROR: Undefined substitution referenced: "details-end".
+/workspaces/VEDA_PROJECT/venv/lib64/python3.12/site-packages/sklearn/datasets/descr/digits.rst:4: WARNING: duplicate label digits_dataset, other instance in /workspaces/VEDA_PROJECT/venv/lib/python3.12/site-packages/sklearn/datasets/descr/digits.rst
+/workspaces/VEDA_PROJECT/venv/lib64/python3.12/site-packages/sklearn/datasets/descr/iris.rst:48: ERROR: Undefined substitution referenced: "details-start".
+/workspaces/VEDA_PROJECT/venv/lib64/python3.12/site-packages/sklearn/datasets/descr/iris.rst:48: ERROR: Undefined substitution referenced: "details-split".
+/workspaces/VEDA_PROJECT/venv/lib64/python3.12/site-packages/sklearn/datasets/descr/iris.rst:67: ERROR: Undefined substitution referenced: "details-end".
+/workspaces/VEDA_PROJECT/venv/lib64/python3.12/site-packages/sklearn/datasets/descr/iris.rst:4: WARNING: duplicate label iris_dataset, other instance in /workspaces/VEDA_PROJECT/venv/lib/python3.12/site-packages/sklearn/datasets/descr/iris.rst
+/workspaces/VEDA_PROJECT/venv/lib64/python3.12/site-packages/sklearn/datasets/descr/kddcup99.rst:4: WARNING: duplicate label kddcup99_dataset, other instance in /workspaces/VEDA_PROJECT/venv/lib/python3.12/site-packages/sklearn/datasets/descr/kddcup99.rst
+/workspaces/VEDA_PROJECT/venv/lib64/python3.12/site-packages/sklearn/datasets/descr/lfw.rst:35: ERROR: Undefined substitution referenced: "details-start".
+/workspaces/VEDA_PROJECT/venv/lib64/python3.12/site-packages/sklearn/datasets/descr/lfw.rst:35: ERROR: Undefined substitution referenced: "details-split".
+/workspaces/VEDA_PROJECT/venv/lib64/python3.12/site-packages/sklearn/datasets/descr/lfw.rst:115: ERROR: Undefined substitution referenced: "details-end".
+/workspaces/VEDA_PROJECT/venv/lib64/python3.12/site-packages/sklearn/datasets/descr/lfw.rst:4: WARNING: duplicate label labeled_faces_in_the_wild_dataset, other instance in /workspaces/VEDA_PROJECT/venv/lib/python3.12/site-packages/sklearn/datasets/descr/lfw.rst
+/workspaces/VEDA_PROJECT/venv/lib64/python3.12/site-packages/sklearn/datasets/descr/linnerud.rst:21: ERROR: Undefined substitution referenced: "details-start".
+/workspaces/VEDA_PROJECT/venv/lib64/python3.12/site-packages/sklearn/datasets/descr/linnerud.rst:21: ERROR: Undefined substitution referenced: "details-split".
+/workspaces/VEDA_PROJECT/venv/lib64/python3.12/site-packages/sklearn/datasets/descr/linnerud.rst:28: ERROR: Undefined substitution referenced: "details-end".
+/workspaces/VEDA_PROJECT/venv/lib64/python3.12/site-packages/sklearn/datasets/descr/linnerud.rst:4: WARNING: duplicate label linnerrud_dataset, other instance in /workspaces/VEDA_PROJECT/venv/lib/python3.12/site-packages/sklearn/datasets/descr/linnerud.rst
+/workspaces/VEDA_PROJECT/venv/lib64/python3.12/site-packages/sklearn/datasets/descr/olivetti_faces.rst:4: WARNING: duplicate label olivetti_faces_dataset, other instance in /workspaces/VEDA_PROJECT/venv/lib/python3.12/site-packages/sklearn/datasets/descr/olivetti_faces.rst
+/workspaces/VEDA_PROJECT/venv/lib64/python3.12/site-packages/sklearn/datasets/descr/rcv1.rst:4: WARNING: duplicate label rcv1_dataset, other instance in /workspaces/VEDA_PROJECT/venv/lib/python3.12/site-packages/sklearn/datasets/descr/rcv1.rst
+/workspaces/VEDA_PROJECT/venv/lib64/python3.12/site-packages/sklearn/datasets/descr/species_distributions.rst:4: WARNING: duplicate label species_distribution_dataset, other instance in /workspaces/VEDA_PROJECT/venv/lib/python3.12/site-packages/sklearn/datasets/descr/species_distributions.rst
+/workspaces/VEDA_PROJECT/venv/lib64/python3.12/site-packages/sklearn/datasets/descr/twenty_newsgroups.rst:30: ERROR: Undefined substitution referenced: "details-start".
+/workspaces/VEDA_PROJECT/venv/lib64/python3.12/site-packages/sklearn/datasets/descr/twenty_newsgroups.rst:30: ERROR: Undefined substitution referenced: "details-split".
+/workspaces/VEDA_PROJECT/venv/lib64/python3.12/site-packages/sklearn/datasets/descr/twenty_newsgroups.rst:93: ERROR: Undefined substitution referenced: "details-end".
+/workspaces/VEDA_PROJECT/venv/lib64/python3.12/site-packages/sklearn/datasets/descr/twenty_newsgroups.rst:95: ERROR: Undefined substitution referenced: "details-start".
+/workspaces/VEDA_PROJECT/venv/lib64/python3.12/site-packages/sklearn/datasets/descr/twenty_newsgroups.rst:95: ERROR: Undefined substitution referenced: "details-split".
+/workspaces/VEDA_PROJECT/venv/lib64/python3.12/site-packages/sklearn/datasets/descr/twenty_newsgroups.rst:129: ERROR: Undefined substitution referenced: "details-end".
+/workspaces/VEDA_PROJECT/venv/lib64/python3.12/site-packages/sklearn/datasets/descr/twenty_newsgroups.rst:131: ERROR: Undefined substitution referenced: "details-start".
+/workspaces/VEDA_PROJECT/venv/lib64/python3.12/site-packages/sklearn/datasets/descr/twenty_newsgroups.rst:131: ERROR: Undefined substitution referenced: "details-split".
+/workspaces/VEDA_PROJECT/venv/lib64/python3.12/site-packages/sklearn/datasets/descr/twenty_newsgroups.rst:224: ERROR: Undefined substitution referenced: "details-end".
+/workspaces/VEDA_PROJECT/venv/lib64/python3.12/site-packages/sklearn/datasets/descr/twenty_newsgroups.rst:4: WARNING: duplicate label 20newsgroups_dataset, other instance in /workspaces/VEDA_PROJECT/venv/lib/python3.12/site-packages/sklearn/datasets/descr/twenty_newsgroups.rst
+/workspaces/VEDA_PROJECT/venv/lib64/python3.12/site-packages/sklearn/datasets/descr/wine_data.rst:76: ERROR: Undefined substitution referenced: "details-start".
+/workspaces/VEDA_PROJECT/venv/lib64/python3.12/site-packages/sklearn/datasets/descr/wine_data.rst:76: ERROR: Undefined substitution referenced: "details-split".
+/workspaces/VEDA_PROJECT/venv/lib64/python3.12/site-packages/sklearn/datasets/descr/wine_data.rst:98: ERROR: Undefined substitution referenced: "details-end".
+/workspaces/VEDA_PROJECT/venv/lib64/python3.12/site-packages/sklearn/datasets/descr/wine_data.rst:4: WARNING: duplicate label wine_dataset, other instance in /workspaces/VEDA_PROJECT/venv/lib/python3.12/site-packages/sklearn/datasets/descr/wine_data.rst
+looking for now-outdated files... none found
+pickling environment... done
+checking consistency... /workspaces/VEDA_PROJECT/RAI_env/lib/python3.12/site-packages/MarkupSafe-2.1.5.dist-info/LICENSE.rst: WARNING: document isn't included in any toctree
+/workspaces/VEDA_PROJECT/RAI_env/lib/python3.12/site-packages/click-8.1.7.dist-info/LICENSE.rst: WARNING: document isn't included in any toctree
+/workspaces/VEDA_PROJECT/RAI_env/lib/python3.12/site-packages/numpy/ma/README.rst: WARNING: document isn't included in any toctree
+/workspaces/VEDA_PROJECT/RAI_env/lib/python3.12/site-packages/pyasn1-0.6.0.dist-info/LICENSE.rst: WARNING: document isn't included in any toctree
+/workspaces/VEDA_PROJECT/RAI_env/lib64/python3.12/site-packages/MarkupSafe-2.1.5.dist-info/LICENSE.rst: WARNING: document isn't included in any toctree
+/workspaces/VEDA_PROJECT/RAI_env/lib64/python3.12/site-packages/click-8.1.7.dist-info/LICENSE.rst: WARNING: document isn't included in any toctree
+/workspaces/VEDA_PROJECT/RAI_env/lib64/python3.12/site-packages/numpy/ma/README.rst: WARNING: document isn't included in any toctree
+/workspaces/VEDA_PROJECT/RAI_env/lib64/python3.12/site-packages/pyasn1-0.6.0.dist-info/LICENSE.rst: WARNING: document isn't included in any toctree
+/workspaces/VEDA_PROJECT/venv/lib/python3.12/site-packages/Flask-2.0.1.dist-info/LICENSE.rst: WARNING: document isn't included in any toctree
+/workspaces/VEDA_PROJECT/venv/lib/python3.12/site-packages/Flask_SQLAlchemy-2.5.1.dist-info/LICENSE.rst: WARNING: document isn't included in any toctree
+/workspaces/VEDA_PROJECT/venv/lib/python3.12/site-packages/MarkupSafe-2.1.5.dist-info/LICENSE.rst: WARNING: document isn't included in any toctree
+/workspaces/VEDA_PROJECT/venv/lib/python3.12/site-packages/Werkzeug-2.0.3.dist-info/LICENSE.rst: WARNING: document isn't included in any toctree
+/workspaces/VEDA_PROJECT/venv/lib/python3.12/site-packages/astunparse-1.6.3.dist-info/AUTHORS.rst: WARNING: document isn't included in any toctree
+/workspaces/VEDA_PROJECT/venv/lib/python3.12/site-packages/bleach/_vendor/README.rst: WARNING: document isn't included in any toctree
+/workspaces/VEDA_PROJECT/venv/lib/python3.12/site-packages/bleach/_vendor/html5lib-1.1.dist-info/AUTHORS.rst: WARNING: document isn't included in any toctree
+/workspaces/VEDA_PROJECT/venv/lib/python3.12/site-packages/click-8.1.7.dist-info/LICENSE.rst: WARNING: document isn't included in any toctree
+/workspaces/VEDA_PROJECT/venv/lib/python3.12/site-packages/flask_sqlalchemy-3.1.1.dist-info/LICENSE.rst: WARNING: document isn't included in any toctree
+/workspaces/VEDA_PROJECT/venv/lib/python3.12/site-packages/flask_wtf-1.2.1.dist-info/licenses/LICENSE.rst: WARNING: document isn't included in any toctree
+/workspaces/VEDA_PROJECT/venv/lib/python3.12/site-packages/idna-2.10.dist-info/LICENSE.rst: WARNING: document isn't included in any toctree
+/workspaces/VEDA_PROJECT/venv/lib/python3.12/site-packages/numpy/ma/README.rst: WARNING: document isn't included in any toctree
+/workspaces/VEDA_PROJECT/venv/lib/python3.12/site-packages/prompt_toolkit-3.0.47.dist-info/AUTHORS.rst: WARNING: document isn't included in any toctree
+/workspaces/VEDA_PROJECT/venv/lib/python3.12/site-packages/pyasn1-0.6.0.dist-info/LICENSE.rst: WARNING: document isn't included in any toctree
+/workspaces/VEDA_PROJECT/venv/lib/python3.12/site-packages/rfc3339_validator-0.1.4.dist-info/AUTHORS.rst: WARNING: document isn't included in any toctree
+/workspaces/VEDA_PROJECT/venv/lib/python3.12/site-packages/rfc3986_validator-0.1.1.dist-info/AUTHORS.rst: WARNING: document isn't included in any toctree
+/workspaces/VEDA_PROJECT/venv/lib/python3.12/site-packages/sklearn/datasets/descr/breast_cancer.rst: WARNING: document isn't included in any toctree
+/workspaces/VEDA_PROJECT/venv/lib/python3.12/site-packages/sklearn/datasets/descr/california_housing.rst: WARNING: document isn't included in any toctree
+/workspaces/VEDA_PROJECT/venv/lib/python3.12/site-packages/sklearn/datasets/descr/covtype.rst: WARNING: document isn't included in any toctree
+/workspaces/VEDA_PROJECT/venv/lib/python3.12/site-packages/sklearn/datasets/descr/diabetes.rst: WARNING: document isn't included in any toctree
+/workspaces/VEDA_PROJECT/venv/lib/python3.12/site-packages/sklearn/datasets/descr/digits.rst: WARNING: document isn't included in any toctree
+/workspaces/VEDA_PROJECT/venv/lib/python3.12/site-packages/sklearn/datasets/descr/iris.rst: WARNING: document isn't included in any toctree
+/workspaces/VEDA_PROJECT/venv/lib/python3.12/site-packages/sklearn/datasets/descr/kddcup99.rst: WARNING: document isn't included in any toctree
+/workspaces/VEDA_PROJECT/venv/lib/python3.12/site-packages/sklearn/datasets/descr/lfw.rst: WARNING: document isn't included in any toctree
+/workspaces/VEDA_PROJECT/venv/lib/python3.12/site-packages/sklearn/datasets/descr/linnerud.rst: WARNING: document isn't included in any toctree
+/workspaces/VEDA_PROJECT/venv/lib/python3.12/site-packages/sklearn/datasets/descr/olivetti_faces.rst: WARNING: document isn't included in any toctree
+/workspaces/VEDA_PROJECT/venv/lib/python3.12/site-packages/sklearn/datasets/descr/rcv1.rst: WARNING: document isn't included in any toctree
+/workspaces/VEDA_PROJECT/venv/lib/python3.12/site-packages/sklearn/datasets/descr/species_distributions.rst: WARNING: document isn't included in any toctree
+/workspaces/VEDA_PROJECT/venv/lib/python3.12/site-packages/sklearn/datasets/descr/twenty_newsgroups.rst: WARNING: document isn't included in any toctree
+/workspaces/VEDA_PROJECT/venv/lib/python3.12/site-packages/sklearn/datasets/descr/wine_data.rst: WARNING: document isn't included in any toctree
+/workspaces/VEDA_PROJECT/venv/lib/python3.12/site-packages/webencodings-0.5.1.dist-info/DESCRIPTION.rst: WARNING: document isn't included in any toctree
+/workspaces/VEDA_PROJECT/venv/lib/python3.12/site-packages/wtforms-3.1.2.dist-info/licenses/LICENSE.rst: WARNING: document isn't included in any toctree
+/workspaces/VEDA_PROJECT/venv/lib64/python3.12/site-packages/Flask-2.0.1.dist-info/LICENSE.rst: WARNING: document isn't included in any toctree
+/workspaces/VEDA_PROJECT/venv/lib64/python3.12/site-packages/Flask_SQLAlchemy-2.5.1.dist-info/LICENSE.rst: WARNING: document isn't included in any toctree
+/workspaces/VEDA_PROJECT/venv/lib64/python3.12/site-packages/MarkupSafe-2.1.5.dist-info/LICENSE.rst: WARNING: document isn't included in any toctree
+/workspaces/VEDA_PROJECT/venv/lib64/python3.12/site-packages/Werkzeug-2.0.3.dist-info/LICENSE.rst: WARNING: document isn't included in any toctree
+/workspaces/VEDA_PROJECT/venv/lib64/python3.12/site-packages/astunparse-1.6.3.dist-info/AUTHORS.rst: WARNING: document isn't included in any toctree
+/workspaces/VEDA_PROJECT/venv/lib64/python3.12/site-packages/bleach/_vendor/README.rst: WARNING: document isn't included in any toctree
+/workspaces/VEDA_PROJECT/venv/lib64/python3.12/site-packages/bleach/_vendor/html5lib-1.1.dist-info/AUTHORS.rst: WARNING: document isn't included in any toctree
+/workspaces/VEDA_PROJECT/venv/lib64/python3.12/site-packages/click-8.1.7.dist-info/LICENSE.rst: WARNING: document isn't included in any toctree
+/workspaces/VEDA_PROJECT/venv/lib64/python3.12/site-packages/flask_sqlalchemy-3.1.1.dist-info/LICENSE.rst: WARNING: document isn't included in any toctree
+/workspaces/VEDA_PROJECT/venv/lib64/python3.12/site-packages/flask_wtf-1.2.1.dist-info/licenses/LICENSE.rst: WARNING: document isn't included in any toctree
+/workspaces/VEDA_PROJECT/venv/lib64/python3.12/site-packages/idna-2.10.dist-info/LICENSE.rst: WARNING: document isn't included in any toctree
+/workspaces/VEDA_PROJECT/venv/lib64/python3.12/site-packages/numpy/ma/README.rst: WARNING: document isn't included in any toctree
+/workspaces/VEDA_PROJECT/venv/lib64/python3.12/site-packages/prompt_toolkit-3.0.47.dist-info/AUTHORS.rst: WARNING: document isn't included in any toctree
+/workspaces/VEDA_PROJECT/venv/lib64/python3.12/site-packages/pyasn1-0.6.0.dist-info/LICENSE.rst: WARNING: document isn't included in any toctree
+/workspaces/VEDA_PROJECT/venv/lib64/python3.12/site-packages/rfc3339_validator-0.1.4.dist-info/AUTHORS.rst: WARNING: document isn't included in any toctree
+/workspaces/VEDA_PROJECT/venv/lib64/python3.12/site-packages/rfc3986_validator-0.1.1.dist-info/AUTHORS.rst: WARNING: document isn't included in any toctree
+/workspaces/VEDA_PROJECT/venv/lib64/python3.12/site-packages/sklearn/datasets/descr/breast_cancer.rst: WARNING: document isn't included in any toctree
+/workspaces/VEDA_PROJECT/venv/lib64/python3.12/site-packages/sklearn/datasets/descr/california_housing.rst: WARNING: document isn't included in any toctree
+/workspaces/VEDA_PROJECT/venv/lib64/python3.12/site-packages/sklearn/datasets/descr/covtype.rst: WARNING: document isn't included in any toctree
+/workspaces/VEDA_PROJECT/venv/lib64/python3.12/site-packages/sklearn/datasets/descr/diabetes.rst: WARNING: document isn't included in any toctree
+/workspaces/VEDA_PROJECT/venv/lib64/python3.12/site-packages/sklearn/datasets/descr/digits.rst: WARNING: document isn't included in any toctree
+/workspaces/VEDA_PROJECT/venv/lib64/python3.12/site-packages/sklearn/datasets/descr/iris.rst: WARNING: document isn't included in any toctree
+/workspaces/VEDA_PROJECT/venv/lib64/python3.12/site-packages/sklearn/datasets/descr/kddcup99.rst: WARNING: document isn't included in any toctree
+/workspaces/VEDA_PROJECT/venv/lib64/python3.12/site-packages/sklearn/datasets/descr/lfw.rst: WARNING: document isn't included in any toctree
+/workspaces/VEDA_PROJECT/venv/lib64/python3.12/site-packages/sklearn/datasets/descr/linnerud.rst: WARNING: document isn't included in any toctree
+/workspaces/VEDA_PROJECT/venv/lib64/python3.12/site-packages/sklearn/datasets/descr/olivetti_faces.rst: WARNING: document isn't included in any toctree
+/workspaces/VEDA_PROJECT/venv/lib64/python3.12/site-packages/sklearn/datasets/descr/rcv1.rst: WARNING: document isn't included in any toctree
+/workspaces/VEDA_PROJECT/venv/lib64/python3.12/site-packages/sklearn/datasets/descr/species_distributions.rst: WARNING: document isn't included in any toctree
+/workspaces/VEDA_PROJECT/venv/lib64/python3.12/site-packages/sklearn/datasets/descr/twenty_newsgroups.rst: WARNING: document isn't included in any toctree
+/workspaces/VEDA_PROJECT/venv/lib64/python3.12/site-packages/sklearn/datasets/descr/wine_data.rst: WARNING: document isn't included in any toctree
+/workspaces/VEDA_PROJECT/venv/lib64/python3.12/site-packages/webencodings-0.5.1.dist-info/DESCRIPTION.rst: WARNING: document isn't included in any toctree
+/workspaces/VEDA_PROJECT/venv/lib64/python3.12/site-packages/wtforms-3.1.2.dist-info/licenses/LICENSE.rst: WARNING: document isn't included in any toctree
+done
+preparing documents... done
+copying assets... copying static files... done
+copying extra files... done
+done
+writing output... [  1%] RAI_env/lib/python3.12/site-packages/MarkupSafe-2.1.5.dist-info/LICENSE
+writing output... [  3%] RAI_env/lib/python3.12/site-packages/click-8.1.7.dist-info/LICENSE
+writing output... [  4%] RAI_env/lib/python3.12/site-packages/numpy/ma/README
+writing output... [  5%] RAI_env/lib/python3.12/site-packages/pyasn1-0.6.0.dist-info/LICENSE
+writing output... [  7%] RAI_env/lib64/python3.12/site-packages/MarkupSafe-2.1.5.dist-info/LICENSE
+writing output... [  8%] RAI_env/lib64/python3.12/site-packages/click-8.1.7.dist-info/LICENSE
+writing output... [ 10%] RAI_env/lib64/python3.12/site-packages/numpy/ma/README
+writing output... [ 11%] RAI_env/lib64/python3.12/site-packages/pyasn1-0.6.0.dist-info/LICENSE
+writing output... [ 12%] index
+writing output... [ 14%] venv/lib/python3.12/site-packages/Flask-2.0.1.dist-info/LICENSE
+writing output... [ 15%] venv/lib/python3.12/site-packages/Flask_SQLAlchemy-2.5.1.dist-info/LICENSE
+writing output... [ 16%] venv/lib/python3.12/site-packages/MarkupSafe-2.1.5.dist-info/LICENSE
+writing output... [ 18%] venv/lib/python3.12/site-packages/Werkzeug-2.0.3.dist-info/LICENSE
+writing output... [ 19%] venv/lib/python3.12/site-packages/astunparse-1.6.3.dist-info/AUTHORS
+writing output... [ 21%] venv/lib/python3.12/site-packages/bleach/_vendor/README
+writing output... [ 22%] venv/lib/python3.12/site-packages/bleach/_vendor/html5lib-1.1.dist-info/AUTHORS
+writing output... [ 23%] venv/lib/python3.12/site-packages/click-8.1.7.dist-info/LICENSE
+writing output... [ 25%] venv/lib/python3.12/site-packages/flask_sqlalchemy-3.1.1.dist-info/LICENSE
+writing output... [ 26%] venv/lib/python3.12/site-packages/flask_wtf-1.2.1.dist-info/licenses/LICENSE
+writing output... [ 27%] venv/lib/python3.12/site-packages/idna-2.10.dist-info/LICENSE
+writing output... [ 29%] venv/lib/python3.12/site-packages/numpy/ma/README
+writing output... [ 30%] venv/lib/python3.12/site-packages/prompt_toolkit-3.0.47.dist-info/AUTHORS
+writing output... [ 32%] venv/lib/python3.12/site-packages/pyasn1-0.6.0.dist-info/LICENSE
+writing output... [ 33%] venv/lib/python3.12/site-packages/rfc3339_validator-0.1.4.dist-info/AUTHORS
+writing output... [ 34%] venv/lib/python3.12/site-packages/rfc3986_validator-0.1.1.dist-info/AUTHORS
+writing output... [ 36%] venv/lib/python3.12/site-packages/sklearn/datasets/descr/breast_cancer
+writing output... [ 37%] venv/lib/python3.12/site-packages/sklearn/datasets/descr/california_housing
+writing output... [ 38%] venv/lib/python3.12/site-packages/sklearn/datasets/descr/covtype
+writing output... [ 40%] venv/lib/python3.12/site-packages/sklearn/datasets/descr/diabetes
+writing output... [ 41%] venv/lib/python3.12/site-packages/sklearn/datasets/descr/digits
+writing output... [ 42%] venv/lib/python3.12/site-packages/sklearn/datasets/descr/iris
+writing output... [ 44%] venv/lib/python3.12/site-packages/sklearn/datasets/descr/kddcup99
+writing output... [ 45%] venv/lib/python3.12/site-packages/sklearn/datasets/descr/lfw
+writing output... [ 47%] venv/lib/python3.12/site-packages/sklearn/datasets/descr/linnerud
+writing output... [ 48%] venv/lib/python3.12/site-packages/sklearn/datasets/descr/olivetti_faces
+writing output... [ 49%] venv/lib/python3.12/site-packages/sklearn/datasets/descr/rcv1
+writing output... [ 51%] venv/lib/python3.12/site-packages/sklearn/datasets/descr/species_distributions
+writing output... [ 52%] venv/lib/python3.12/site-packages/sklearn/datasets/descr/twenty_newsgroups
+writing output... [ 53%] venv/lib/python3.12/site-packages/sklearn/datasets/descr/wine_data
+writing output... [ 55%] venv/lib/python3.12/site-packages/webencodings-0.5.1.dist-info/DESCRIPTION
+writing output... [ 56%] venv/lib/python3.12/site-packages/wtforms-3.1.2.dist-info/licenses/LICENSE
+writing output... [ 58%] venv/lib64/python3.12/site-packages/Flask-2.0.1.dist-info/LICENSE
+writing output... [ 59%] venv/lib64/python3.12/site-packages/Flask_SQLAlchemy-2.5.1.dist-info/LICENSE
+writing output... [ 60%] venv/lib64/python3.12/site-packages/MarkupSafe-2.1.5.dist-info/LICENSE
+writing output... [ 62%] venv/lib64/python3.12/site-packages/Werkzeug-2.0.3.dist-info/LICENSE
+writing output... [ 63%] venv/lib64/python3.12/site-packages/astunparse-1.6.3.dist-info/AUTHORS
+writing output... [ 64%] venv/lib64/python3.12/site-packages/bleach/_vendor/README
+writing output... [ 66%] venv/lib64/python3.12/site-packages/bleach/_vendor/html5lib-1.1.dist-info/AUTHORS
+writing output... [ 67%] venv/lib64/python3.12/site-packages/click-8.1.7.dist-info/LICENSE
+writing output... [ 68%] venv/lib64/python3.12/site-packages/flask_sqlalchemy-3.1.1.dist-info/LICENSE
+writing output... [ 70%] venv/lib64/python3.12/site-packages/flask_wtf-1.2.1.dist-info/licenses/LICENSE
+writing output... [ 71%] venv/lib64/python3.12/site-packages/idna-2.10.dist-info/LICENSE
+writing output... [ 73%] venv/lib64/python3.12/site-packages/numpy/ma/README
+writing output... [ 74%] venv/lib64/python3.12/site-packages/prompt_toolkit-3.0.47.dist-info/AUTHORS
+writing output... [ 75%] venv/lib64/python3.12/site-packages/pyasn1-0.6.0.dist-info/LICENSE
+writing output... [ 77%] venv/lib64/python3.12/site-packages/rfc3339_validator-0.1.4.dist-info/AUTHORS
+writing output... [ 78%] venv/lib64/python3.12/site-packages/rfc3986_validator-0.1.1.dist-info/AUTHORS
+writing output... [ 79%] venv/lib64/python3.12/site-packages/sklearn/datasets/descr/breast_cancer
+writing output... [ 81%] venv/lib64/python3.12/site-packages/sklearn/datasets/descr/california_housing
+writing output... [ 82%] venv/lib64/python3.12/site-packages/sklearn/datasets/descr/covtype
+writing output... [ 84%] venv/lib64/python3.12/site-packages/sklearn/datasets/descr/diabetes
+writing output... [ 85%] venv/lib64/python3.12/site-packages/sklearn/datasets/descr/digits
+writing output... [ 86%] venv/lib64/python3.12/site-packages/sklearn/datasets/descr/iris
+writing output... [ 88%] venv/lib64/python3.12/site-packages/sklearn/datasets/descr/kddcup99
+writing output... [ 89%] venv/lib64/python3.12/site-packages/sklearn/datasets/descr/lfw
+writing output... [ 90%] venv/lib64/python3.12/site-packages/sklearn/datasets/descr/linnerud
+writing output... [ 92%] venv/lib64/python3.12/site-packages/sklearn/datasets/descr/olivetti_faces
+writing output... [ 93%] venv/lib64/python3.12/site-packages/sklearn/datasets/descr/rcv1
+writing output... [ 95%] venv/lib64/python3.12/site-packages/sklearn/datasets/descr/species_distributions
+writing output... [ 96%] venv/lib64/python3.12/site-packages/sklearn/datasets/descr/twenty_newsgroups
+writing output... [ 97%] venv/lib64/python3.12/site-packages/sklearn/datasets/descr/wine_data
+writing output... [ 99%] venv/lib64/python3.12/site-packages/webencodings-0.5.1.dist-info/DESCRIPTION
+writing output... [100%] venv/lib64/python3.12/site-packages/wtforms-3.1.2.dist-info/licenses/LICENSE
+
+/workspaces/VEDA_PROJECT/venv/lib/python3.12/site-packages/sklearn/datasets/descr/lfw.rst:128: WARNING: undefined label: 'sphx_glr_auto_examples_applications_plot_face_recognition.py'
+/workspaces/VEDA_PROJECT/venv/lib/python3.12/site-packages/sklearn/datasets/descr/twenty_newsgroups.rst:156: WARNING: undefined label: 'sphx_glr_auto_examples_text_plot_document_classification_20newsgroups.py'
+/workspaces/VEDA_PROJECT/venv/lib/python3.12/site-packages/sklearn/datasets/descr/twenty_newsgroups.rst:224: WARNING: undefined label: 'sphx_glr_auto_examples_model_selection_plot_grid_search_text_feature_extraction.py'
+/workspaces/VEDA_PROJECT/venv/lib/python3.12/site-packages/sklearn/datasets/descr/twenty_newsgroups.rst:258: WARNING: undefined label: 'sphx_glr_auto_examples_model_selection_plot_grid_search_text_feature_extraction.py'
+/workspaces/VEDA_PROJECT/venv/lib/python3.12/site-packages/sklearn/datasets/descr/twenty_newsgroups.rst:260: WARNING: undefined label: 'sphx_glr_auto_examples_text_plot_document_classification_20newsgroups.py'
+/workspaces/VEDA_PROJECT/venv/lib/python3.12/site-packages/sklearn/datasets/descr/twenty_newsgroups.rst:262: WARNING: undefined label: 'sphx_glr_auto_examples_text_plot_hashing_vs_dict_vectorizer.py'
+/workspaces/VEDA_PROJECT/venv/lib/python3.12/site-packages/sklearn/datasets/descr/twenty_newsgroups.rst:264: WARNING: undefined label: 'sphx_glr_auto_examples_text_plot_document_clustering.py'
+/workspaces/VEDA_PROJECT/venv/lib64/python3.12/site-packages/sklearn/datasets/descr/lfw.rst:128: WARNING: undefined label: 'sphx_glr_auto_examples_applications_plot_face_recognition.py'
+/workspaces/VEDA_PROJECT/venv/lib64/python3.12/site-packages/sklearn/datasets/descr/twenty_newsgroups.rst:156: WARNING: undefined label: 'sphx_glr_auto_examples_text_plot_document_classification_20newsgroups.py'
+/workspaces/VEDA_PROJECT/venv/lib64/python3.12/site-packages/sklearn/datasets/descr/twenty_newsgroups.rst:224: WARNING: undefined label: 'sphx_glr_auto_examples_model_selection_plot_grid_search_text_feature_extraction.py'
+/workspaces/VEDA_PROJECT/venv/lib64/python3.12/site-packages/sklearn/datasets/descr/twenty_newsgroups.rst:258: WARNING: undefined label: 'sphx_glr_auto_examples_model_selection_plot_grid_search_text_feature_extraction.py'
+/workspaces/VEDA_PROJECT/venv/lib64/python3.12/site-packages/sklearn/datasets/descr/twenty_newsgroups.rst:260: WARNING: undefined label: 'sphx_glr_auto_examples_text_plot_document_classification_20newsgroups.py'
+/workspaces/VEDA_PROJECT/venv/lib64/python3.12/site-packages/sklearn/datasets/descr/twenty_newsgroups.rst:262: WARNING: undefined label: 'sphx_glr_auto_examples_text_plot_hashing_vs_dict_vectorizer.py'
+/workspaces/VEDA_PROJECT/venv/lib64/python3.12/site-packages/sklearn/datasets/descr/twenty_newsgroups.rst:264: WARNING: undefined label: 'sphx_glr_auto_examples_text_plot_document_clustering.py'
+generating indices... genindex done
+writing additional pages... search done
+dumping search index in English (code: en)... done
+dumping object inventory... done
+build succeeded, 155 warnings.
+
+The HTML pages are in _build/html.

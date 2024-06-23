@@ -1,0 +1,15 @@
+{
+    "name": "VEDA Dev Container",
+    "image": "mcr.microsoft.com/devcontainers/python:3.9", // You can adjust the Python version as needed
+    "settings": {
+        "terminal.integrated.shell.linux": "/bin/bash"
+    },
+    "postCreateCommand": "pip install -r requirements.txt && jupyter lab --generate-config",
+    "forwardPorts": [
+        8888
+    ],
+    "extensions": [
+        "ms-python.python",
+        "ms-toolsai.jupyter"
+    ]
+}

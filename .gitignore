@@ -1,0 +1,154 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtualenv
+.env
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# pipenv
+.venv
+
+# Other large files
+other_scripts/results_path_loss.txt
+other_scripts/link_budget_data/link_budget_data.csv
+other_scripts/link_budget_data.zip
+venv/lib/python3.12/site-packages/tensorflow/libtensorflow_cc.so.2
+venv/lib/python3.12/site-packages/tensorflow/libtensorflow_framework.so.2
+prometheus-2.37.1.linux-amd64/prometheus
+veda_project/other_scripts/db_rssi/rssi_data.csv
+veda_project/other_scripts/results_path_loss.txt
+veda_project/other_scripts/link_budget_data/link_budget_data.csv
+veda_project/other_scripts/link_budget_data.zip
+veda_project/other_scripts/db_rssi (3)/rssi_data.csv
+veda_project/other_scripts/db_rssi (2)/rssi_data.csv
+veda_project/other_scripts/db_rssi (6)/rssi_data.csv
+veda_project/other_scripts/db_rssi (5)/rssi_data.csv
+veda_project/other_scripts/db_rssi (4)/rssi_data.csv
+veda_project/other_scripts/db_rssi (7)/rssi_data.csv
+veda_project/venv/lib/python3.12/site-packages/tensorflow/libtensorflow_cc.so.2
+veda_project/venv/lib/python3.12/site-packages/tensorflow/libtensorflow_framework.so.2
+veda_project/prometheus-2.37.1.linux-amd64/prometheus
+rssi_data_part_aa
+venv/lib/python3.12/site-packages/clang/native/libclang.so
+fspl_data.zip
+prometheus-2.37.1.linux-amd64/promtool
+other_files/prometheus-2.37.1.linux-amd64.tar.gz
+venv/lib/python3.12/site-packages/tensorflow/libtensorflow_framework.so.2
+venv/lib/python3.12/site-packages/tensorflow/libtensorflow_cc.so.2
+other_scripts/results_path_loss.txt
+other_scripts/db_rssi (2)/rssi_data.csv
+other_scripts/link_budget_data.zip
+other_scripts/link_budget_data/link_budget_data.csv
+other_scripts/db_rssi (3)/rssi_data.csv
+venv/lib/python3.12/site-packages/tensorflow/libtensorflow_framework.so.2
+other_scripts/link_budget_data.zip
+venv/lib/python3.12/site-packages/tensorflow/libtensorflow_cc.so.2
+prometheus-2.37.1.linux-amd64/prometheus
+other_scripts/link_budget_data/link_budget_data.csv
+other_scripts/results_path_loss.txt
+other_scripts/db_rssi (3)/rssi_data.csv
+venv/lib/python3.12/site-packages/tensorflow/libtensorflow_framework.so.2
+other_scripts/link_budget_data.zip
+venv/lib/python3.12/site-packages/tensorflow/libtensorflow_cc.so.2
+prometheus-2.37.1.linux-amd64/prometheus
+other_scripts/link_budget_data/link_budget_data.csv
+other_scripts/results_path_loss.txt
+other_scripts/db_rssi/*.csv
+other_scripts/results_path_loss.txt
+other_scripts/link_budget_data/*.csv
+other_scripts/link_budget_data.zip
+venv/lib/python3.12/site-packages/tensorflow/*.so
+prometheus-2.37.1.linux-amd64/prometheus
+other_scripts/db_rssi/*.csv
+other_scripts/results_path_loss.txt
+other_scripts/link_budget_data/*.csv
+other_scripts/link_budget_data.zip
+venv/lib/python3.12/site-packages/tensorflow/*.so
+prometheus-2.37.1.linux-amd64/prometheus
+other_scripts/db_rssi/*.csv
+other_files/fspl_dataset.csv
+other_scripts/db_rssi.zip
+venv/lib/python3.12/site-packages/scipy.libs/*.so
+venv/lib/python3.12/site-packages/numpy.libs/*.so
+other_files/system_activity.sar
+other_scripts/results_rssi.txt
+venv/lib/python3.12/site-packages/tensorflow/compiler/mlir/stablehlo/stablehlo_extension.so
+venv/lib/python3.12/site-packages/tensorboard_data_server/bin/server
+other_files/fspl_data.zip
+node_exporter-1.3.1.linux-amd64/node_exporter
+results_rssi.txt
+venv/lib/python3.12/site-packages/pandas/_libs/*.so
+venv/lib/python3.12/site-packages/grpc/_cython/*.so
+venv/lib/python3.12/site-packages/tokenizers/*.so
+venv/lib/python3.12/site-packages/tensorflow/python/profiler/internal/*.so
+other_scripts/link_budget_data.zip
+other_scripts/link_budget_data/link_budget_data.csv
+other_scripts/db_rssi/*.csv
+venv/lib/python3.12/site-packages/tensorflow/libtensorflow_framework.so.2
+other_scripts/results_path_loss.txt
+prometheus-2.37.1.linux-amd64/prometheus
+venv/lib/python3.12/site-packages/tensorflow/libtensorflow_cc.so.2
+prometheus-2.37.1.linux-amd64/prometheus
+venv/lib/python3.12/site-packages/tensorflow/libtensorflow_framework.so.2
+other_scripts/link_budget_data.zip
+other_scripts/results_path_loss.txt
+other_scripts/db_rssi/*.csv
+other_scripts/link_budget_data/link_budget_data.csv
+venv/lib/python3.12/site-packages/tensorflow/libtensorflow_cc.so.2
+venv/lib/python3.12/site-packages/tensorflow/libtensorflow_framework.so.2
+veda_project
+rssi_data_part_aa
+fspl_dataset.csv
+venv/lib/python3.12/site-packages/numpy.libs/libopenblas64_p-r0-0cf96a72.3.23.dev.so
+system_activity.sar
+RAI_env/lib/python3.12/site-packages/numpy.libs/libopenblas64_p-r0-0cf96a72.3.23.dev.so
+venv/lib/python3.12/site-packages/pandas/_libs/join.cpython-312-x86_64-linux-gnu.so
+venv/lib/python3.12/site-packages/grpc/_cython/cygrpc.cpython-312-x86_64-linux-gnu.so
+RAI_env/lib/python3.12/site-packages/grpc/_cython/cygrpc.cpython-312-x86_64-linux-gnu.so
+other_scripts/db_rssi (4)/rssi_data.csv
+venv/lib/python3.12/site-packages/tensorflow/libtensorflow_framework.so.2
+other_scripts/link_budget_data.zip
+other_scripts/results_path_loss.txt
+prometheus-2.37.1.linux-amd64/prometheus
+venv/lib/python3.12/site-packages/tensorflow/libtensorflow_cc.so.2
+rssi_data_part_aa
+fspl_dataset.csv
+link_budget_data_part_ab
+results_path_loss_part_aa
+results_path_loss_part_ab
+results_path_loss_part_ac
+link_budget_data_part_aa

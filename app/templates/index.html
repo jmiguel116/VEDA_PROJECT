@@ -1,0 +1,9 @@
+{% extends "base.html" %}
+{% block title %}Home{% endblock %}
+{% block content %}
+<div class="jumbotron text-center">
+  <h1>Welcome to VEDA</h1>
+  <p>Your Virtual Environment Design Assistant</p>
+  <a href="{{ url_for('register') }}" class="btn btn-primary">Get Started</a>
+</div>
+{% endblock %}

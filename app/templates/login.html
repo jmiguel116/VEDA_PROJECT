@@ -1,0 +1,70 @@
+{% extends "base.html" %}
+{% block title %}Login{% endblock %}
+{% block content %}
+<div class="row justify-content-center">
+  <div class="col-md-6">
+    <div class="card">
+      <div class="card-body">
+        <h2 class="card-title text-center">Login</h2>
+        {% if errors %}
+        <div class="alert alert-danger">
+          {% for error in errors %}
+          {{ error }}<br>
+          {% endfor %}
+        </div>
+        {% endif %}
+        <form method="POST" action="{{ url_for('login') }}">
+          {{ form.hidden_tag() }}
+          <div class="form-group">
+            {{ form.email.label(class="form-label") }}
+            {{ form.email(class="form-control", required=True) }}
+            {% if form.email.errors %}
+            <div class="invalid-feedback">
+              {% for error in form.email.errors %}
+              {{ error }}
+              {% endfor %}
+            </div>
+            {% endif %}
+          </div>
+          <div class="form-group">
+            {{ form.password.label(class="form-label") }}
+            {{ form.password(class="form-control", required=True) }}
+            <input type="checkbox" id="showPassword" onclick="togglePassword()">
+            <label for="showPassword">Show Password</label>
+            {% if form.password.errors %}
+            <div class="invalid-feedback">
+              {% for error in form.password.errors %}
+              {{ error }}
+              {% endfor %}
+            </div>
+            {% endif %}
+          </div>
+          <div class="form-group form-check">
+            {{ form.remember(class="form-check-input") }}
+            {{ form.remember.label(class="form-check-label") }}
+          </div>
+          <div class="form-group">
+            {{ form.submit(class="btn btn-primary btn-block") }}
+          </div>
+          {% if login_failed %}
+          <div class="alert alert-danger">
+            Invalid email or password.
+          </div>
+          {% endif %}
+        </form>
+        <p>Don't have an account? <a href="{{ url_for('register') }}">Sign Up</a></p>
+      </div>
+    </div>
+  </div>
+</div>
+<script>
+    function togglePassword() {
+        var passwordInput = document.getElementById("password");
+        if (passwordInput.type === "password") {
+            passwordInput.type = "text";
+        } else {
+            passwordInput.type = "password";
+        }
+    }
+</script>
+{% endblock %}

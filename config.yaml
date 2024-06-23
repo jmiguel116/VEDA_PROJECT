@@ -1,0 +1,6 @@
+credentials_path: "/home/jmiguel/Documents/Vertex AI API Key/rfai-v01-f94c7036ca20.json"  # Replace with the actual path to your credentials file
+project_id: "RFAI-v01"
+model_path: "/path/to/your/model"  # Path to your model file
+display_name: "Your Model Display Name"
+endpoint_name: "projects/rfai-v01/locations/us-west1/endpoints/llama3-chatqa-1.5-mg-one-click-deploy"
+location: "us-west1"

@@ -1,0 +1,5000 @@
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': 8.490507148575615}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
+{'lambda': 0.0127, 'FSPL_ft': -13.961577885325966}
